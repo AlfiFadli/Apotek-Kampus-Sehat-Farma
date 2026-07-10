@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-600: #ec4899;
+  --brand-700: #be185d;
+  --brand-50: #fdf2f8;
+  color-scheme: light;
+}
+
+:root.dark {
+  --brand-600: #1f2937;
+  --brand-700: #111827;
+  --brand-50: #1f2937;
+  color-scheme: dark;
+}
+
+* {
+  @apply transition-colors duration-200 ease-out;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply min-h-screen bg-[radial-gradient(circle_at_top_left,_rgba(236,72,153,0.16),_transparent_24%),linear-gradient(135deg,_#fff0f8_0%,_#fff5fb_100%)] text-slate-900 antialiased;
+}
+
+:root.dark body {
+  background: radial-gradient(circle at top left, rgba(148,163,184,0.16), transparent 24%), linear-gradient(135deg, #0f172a 0%, #111827 100%);
+  color-scheme: dark;
+}
+
+body::selection {
+  background: rgba(236,72,153,0.18);
+}
+
+button,
+input,
+select,
+textarea {
+  @apply transition-all duration-200 ease-out;
+}
+
+button:hover:not(:disabled) {
+  @apply scale-[1.02];
+}
+
+button:disabled {
+  @apply opacity-50 cursor-not-allowed;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  @apply ring-2 ring-pink-500 dark:ring-pink-400;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(251, 207, 232, 0.5);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(236, 72, 153, 0.45);
+  border-radius: 9999px;
+}
+
+:root.dark ::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.45);
+}
+
+:root.dark ::-webkit-scrollbar-thumb {
+  background: rgba(96, 165, 250, 0.35);
+}

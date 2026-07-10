@@ -1,0 +1,15 @@
+{
+  "/page": "app/page.js",
+  "/api/medicines/route": "app/api/medicines/route.js",
+  "/api/sales/route": "app/api/sales/route.js",
+  "/stok/page": "app/stok/page.js",
+  "/api/suppliers/route": "app/api/suppliers/route.js",
+  "/penjualan/page": "app/penjualan/page.js",
+  "/api/purchases/route": "app/api/purchases/route.js",
+  "/laporan/page": "app/laporan/page.js",
+  "/api/export/route": "app/api/export/route.js",
+  "/pembelian/page": "app/pembelian/page.js",
+  "/supplier/page": "app/supplier/page.js",
+  "/users/page": "app/users/page.js",
+  "/api/users/route": "app/api/users/route.js"
+}

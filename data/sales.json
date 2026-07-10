@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1906b5b7-df5d-41ff-919a-f3eb8dda69ff",
+    "nomorTransaksi": "TRX-8336",
+    "tanggal": "2026-07-10T00:00:00.000Z",
+    "kasir": "Kasir",
+    "customer": "Alfi",
+    "total": 20064,
+    "laba": 2408,
+    "status": "Berhasil",
+    "items": [
+      {
+        "nama": "Amoxicillin 250mg",
+        "qty": 6,
+        "harga": 3200
+      }
+    ]
+  },
+  {
+    "id": "4b943be1-7ebe-48d5-99c7-85287dc0d805",
+    "nomorTransaksi": "TRX-6452",
+    "tanggal": "2026-07-10T11:30:46.452Z",
+    "kasir": "Admin",
+    "total": 43000,
+    "laba": 12000,
+    "status": "Berhasil",
+    "items": [
+      {
+        "nama": "Paracetamol",
+        "qty": 2,
+        "harga": 15000
+      },
+      {
+        "nama": "Amoxicillin",
+        "qty": 1,
+        "harga": 28000
+      }
+    ]
+  },
+  {
+    "id": "cdc60e91-02a6-4592-8c10-2fa6102ce0e8",
+    "nomorTransaksi": "TRX-5917",
+    "tanggal": "2026-07-10T10:38:55.917Z",
+    "kasir": "Admin",
+    "total": 43000,
+    "laba": 12000,
+    "items": [
+      {
+        "nama": "Paracetamol",
+        "qty": 2,
+        "harga": 15000
+      },
+      {
+        "nama": "Amoxicillin",
+        "qty": 1,
+        "harga": 28000
+      }
+    ]
+  },
+  {
+    "id": "26905adf-fc55-46d0-87f5-40c91dcd7efc",
+    "nomorTransaksi": "TRX-4023",
+    "tanggal": "2026-07-10T08:38:24.023Z",
+    "kasir": "Admin",
+    "total": 43000,
+    "laba": 12000,
+    "items": [
+      {
+        "nama": "Paracetamol",
+        "qty": 2,
+        "harga": 15000
+      },
+      {
+        "nama": "Amoxicillin",
+        "qty": 1,
+        "harga": 28000
+      }
+    ]
+  },
+  {
+    "id": "sale-1",
+    "nomorTransaksi": "TRX-001",
+    "tanggal": "2026-07-10T10:00:00.000Z",
+    "kasir": "Admin",
+    "total": 42000,
+    "laba": 12000,
+    "items": [
+      {
+        "nama": "Paracetamol 500mg",
+        "qty": 2,
+        "harga": 1800
+      }
+    ]
+  }
+]

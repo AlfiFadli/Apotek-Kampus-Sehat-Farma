@@ -1,0 +1,74 @@
+[
+  {
+    "id": "7aad2fc1-f045-46f4-ae43-c7f882eca9e2",
+    "supplierId": "sup-1",
+    "faktur": "INV-5340",
+    "total": 5000000,
+    "status": "Pending",
+    "tanggal": "2026-07-10T11:28:05.340Z"
+  },
+  {
+    "id": "3086acd8-0af7-4b7b-92ed-acfcb8a1c551",
+    "supplierId": "sup-1",
+    "faktur": "INV-8657",
+    "total": 5000000,
+    "status": "Pending",
+    "tanggal": "2026-07-10T11:24:28.657Z"
+  },
+  {
+    "id": "320d5d04-d9ad-4ee7-b948-561009ece3ee",
+    "supplierId": "sup-1",
+    "faktur": "INV-1849",
+    "total": 5000000,
+    "status": "Pending",
+    "tanggal": "2026-07-10T11:24:21.849Z"
+  },
+  {
+    "id": "477d9c3c-5817-4056-9307-cf91935ccaf6",
+    "supplierId": "sup-1",
+    "faktur": "INV-3906",
+    "total": 5000000,
+    "status": "Hutang",
+    "tanggal": "2026-07-10T10:47:53.906Z"
+  },
+  {
+    "id": "dc80610e-46e7-42e0-a9d3-0d56f64b15d5",
+    "supplierId": "sup-1",
+    "faktur": "INV-6872",
+    "total": 5000000,
+    "status": "Hutang",
+    "tanggal": "2026-07-10T10:37:16.872Z"
+  },
+  {
+    "id": "a46d67ae-f51f-46b8-8eec-61ee3aa0062e",
+    "supplierId": "sup-1",
+    "faktur": "INV-7705",
+    "total": 12500000,
+    "status": "Hutang",
+    "tanggal": "2026-07-10T08:39:07.705Z"
+  },
+  {
+    "id": "eaad7a06-7537-48e2-8c02-70b9d59c1e48",
+    "supplierId": "sup-1",
+    "faktur": "INV-6585",
+    "total": 12500000,
+    "status": "Hutang",
+    "tanggal": "2026-07-10T08:39:06.585Z"
+  },
+  {
+    "id": "eb223663-2682-418e-8256-c1a99c9a371c",
+    "supplierId": "sup-1",
+    "faktur": "INV-5074",
+    "total": 12500000,
+    "status": "Hutang",
+    "tanggal": "2026-07-10T08:39:05.074Z"
+  },
+  {
+    "id": "pur-1",
+    "supplierId": "sup-1",
+    "faktur": "INV-1001",
+    "total": 12400000,
+    "status": "Lunas",
+    "tanggal": "2026-06-20"
+  }
+]

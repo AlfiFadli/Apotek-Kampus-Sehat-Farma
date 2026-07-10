@@ -1,0 +1,20 @@
+[
+  {
+    "id": "user-1",
+    "nama": "Dr. Sari",
+    "role": "Admin",
+    "status": "Aktif"
+  },
+  {
+    "id": "user-2",
+    "nama": "Rina",
+    "role": "Apoteker",
+    "status": "Aktif"
+  },
+  {
+    "id": "user-3",
+    "nama": "Doni",
+    "role": "Kasir",
+    "status": "Aktif"
+  }
+]

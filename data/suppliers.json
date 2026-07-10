@@ -1,0 +1,28 @@
+[
+  {
+    "id": "sup-1",
+    "nama": "PT Sehat Makmur",
+    "alamat": "Bandung",
+    "telepon": "022-123456",
+    "email": "sales@sehatmakmur.com",
+    "pic": "Budi Santoso"
+  },
+  {
+    "id": "sup-2",
+    "nama": "CV Farma Jaya",
+    "alamat": "Jakarta",
+    "telepon": "021-654321",
+    "email": "cs@farmajaya.com",
+    "pic": "Sinta"
+  },
+  {
+    "nama": "Pt.Mencari Cinta Sejati",
+    "alamat": "Tipes",
+    "kota": "Surakarta",
+    "telepon": "08123456789",
+    "email": "alfifadli250@gmail.com",
+    "pic": "Alfi Fadli",
+    "status": "Aktif",
+    "id": "4dbb0ef1-de7c-4439-8fac-a589c4244f27"
+  }
+]
